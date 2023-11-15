@@ -25,7 +25,7 @@ case 4 :
 printf("Division of %d and %d is %d",a,b,a/b);
 break;
 default :
-printf("1 SE 4 KE BICH ME NO. DAL");
+printf("N/A");
 break;
 }
 return 0;
