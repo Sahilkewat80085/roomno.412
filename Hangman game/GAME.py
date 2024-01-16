@@ -40,7 +40,7 @@ while not game_over:
     print(f"Now you {lives} lives left to complete the game.")
     if lives == 0 :
       game_over = True
-      print("Maar gaya madarchod")
+      print("Kya bhai tu itna easy word bhi guess nai kar skta kya")
 
   print(f"{''.join(display)}")
   
