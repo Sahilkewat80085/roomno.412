@@ -1,0 +1,4 @@
+amazon | exampleemail@gmail.com | 12334amazon | exampleemail@gmail.com | 12345678
+amazon | exampleemail@gmail.com | 123456789
+onsoisio | exampleemail@gmail.com | 6548413
+amazon | shubhamshau1234@gmail.com | b!Y1l&2z6xTbqi
